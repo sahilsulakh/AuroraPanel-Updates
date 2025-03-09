@@ -1,1 +1,2 @@
 https://github.com/sahilsulakh/AuroraPanel-Updates/releases/download/AuroraPanel/Aurora.Panel.exe
+1.1.8.3
