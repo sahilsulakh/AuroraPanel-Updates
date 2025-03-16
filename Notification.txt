@@ -1,4 +1,4 @@
-title: New Update Soon
-message: A new update will be rolled out soon.
-timestamp: 2025-03-16
-flags: show-immediately,bell-animation=bounce
+New Update Soon
+A new update will be rolled out soon.
+2025-03-16
+show-immediately
