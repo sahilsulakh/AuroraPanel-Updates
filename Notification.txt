@@ -1,0 +1,23 @@
+[
+  {
+    "Title": "Important Update",
+    "Message": "Version 1.2 is now available with critical security fixes. Please update as soon as possible.",
+    "Type": "urgent",
+    "TargetVersions": ["1.0", "1.1"],
+    "ExpiryDate": "2025-06-01T00:00:00"
+  },
+  {
+    "Title": "New Features",
+    "Message": "We've added new customization options in the latest version. Check them out!",
+    "Type": "info",
+    "TargetVersions": ["*"],
+    "ExpiryDate": "2025-05-15T00:00:00"
+  },
+  {
+    "Title": "Maintenance Complete",
+    "Message": "Our scheduled maintenance is complete. Thanks for your patience!",
+    "Type": "success",
+    "TargetVersions": ["*"],
+    "ExpiryDate": "2025-04-01T00:00:00"
+  }
+]
