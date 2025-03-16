@@ -1,4 +1,4 @@
 title: New Update Soon
 message: A new update will be rolled out soon.
 timestamp: 2025-03-16
-flags: show-immediately
+flags: show-immediately,bell-animation=bounce
