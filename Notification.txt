@@ -1,9 +1,3 @@
-[
-  {
-    "Title": "Welcome to Aurora",
-    "Message": "Thanks for using our application. Check out the new features in the settings menu!",
-    "Type": "info",
-    "TargetVersions": ["*"],
-    "ExpiryDate": "2025-12-31T00:00:00"
-  }
-]
+Update Available
+A new update will be rolled out soon.
+2025-12-31 12:00:00
