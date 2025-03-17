@@ -1,4 +1,4 @@
 New Update Soon
 A new update will be rolled out soon.
 2024-03-17
-show-immediately
+silent-mode
